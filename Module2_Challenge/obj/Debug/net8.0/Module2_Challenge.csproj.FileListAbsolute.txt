@@ -1,0 +1,15 @@
+/workspaces/Module2_Challenge./Module2_Challenge/bin/Debug/net8.0/Module2_Challenge
+/workspaces/Module2_Challenge./Module2_Challenge/bin/Debug/net8.0/Module2_Challenge.deps.json
+/workspaces/Module2_Challenge./Module2_Challenge/bin/Debug/net8.0/Module2_Challenge.runtimeconfig.json
+/workspaces/Module2_Challenge./Module2_Challenge/bin/Debug/net8.0/Module2_Challenge.dll
+/workspaces/Module2_Challenge./Module2_Challenge/bin/Debug/net8.0/Module2_Challenge.pdb
+/workspaces/Module2_Challenge./Module2_Challenge/obj/Debug/net8.0/Module2_Challenge.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Module2_Challenge./Module2_Challenge/obj/Debug/net8.0/Module2_Challenge.AssemblyInfoInputs.cache
+/workspaces/Module2_Challenge./Module2_Challenge/obj/Debug/net8.0/Module2_Challenge.AssemblyInfo.cs
+/workspaces/Module2_Challenge./Module2_Challenge/obj/Debug/net8.0/Module2_Challenge.csproj.CoreCompileInputs.cache
+/workspaces/Module2_Challenge./Module2_Challenge/obj/Debug/net8.0/Module2_Challenge.sourcelink.json
+/workspaces/Module2_Challenge./Module2_Challenge/obj/Debug/net8.0/Module2_Challenge.dll
+/workspaces/Module2_Challenge./Module2_Challenge/obj/Debug/net8.0/refint/Module2_Challenge.dll
+/workspaces/Module2_Challenge./Module2_Challenge/obj/Debug/net8.0/Module2_Challenge.pdb
+/workspaces/Module2_Challenge./Module2_Challenge/obj/Debug/net8.0/Module2_Challenge.genruntimeconfig.cache
+/workspaces/Module2_Challenge./Module2_Challenge/obj/Debug/net8.0/ref/Module2_Challenge.dll
